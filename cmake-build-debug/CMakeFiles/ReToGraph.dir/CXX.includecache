@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CppProject/ReToGraph/Algorithms.h
+DataStructure.h
+E:/CppProject/ReToGraph/DataStructure.h
+
+E:/CppProject/ReToGraph/DataStructure.h
+bits/stdc++.h
+-
+algorithm
+-
+fstream
+-
+iostream
+-
+map
+-
+deque
+-
+queue
+-
+ctime
+-
+set
+-
+stack
+-
+vector
+-
+climits
+-
+unistd.h
+E:/CppProject/ReToGraph/unistd.h
+
+E:/CppProject/ReToGraph/main.cpp
+DataStructure.h
+E:/CppProject/ReToGraph/DataStructure.h
+Algorithms.h
+E:/CppProject/ReToGraph/Algorithms.h
+
